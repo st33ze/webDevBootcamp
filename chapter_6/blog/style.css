@@ -1,0 +1,35 @@
+body {
+    border: 15px solid #96989b;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+article {
+    margin: 15px;
+}
+
+article + article {
+    border-top: 1px solid #96989b;
+    margin-top: 45px;
+}
+
+.date {
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    color: #246cd8;
+    /* font-weight: bold; */
+    
+}
+
+h2 {
+    text-transform: capitalize;
+    color: #022456;
+    font-size: 2em;
+}
+
+h2 + p {
+    border-left: 5px solid #96989b;
+    padding: 2px;
+}
