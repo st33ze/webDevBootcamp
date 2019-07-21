@@ -1,0 +1,23 @@
+.navbar-brand i {
+    padding-right: 0.5rem;
+}
+
+.navbar-brand {
+    padding-right: 3rem;
+}
+
+nav {
+    background: #022238;
+}
+
+nav a {
+    outline: none;
+}
+
+.container {
+    margin-top: 5rem;
+}
+
+.jumbotron {
+    background: #d3e2f0;
+}
