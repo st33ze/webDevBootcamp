@@ -7,3 +7,5 @@ The Web Developer Bootcamp on Udemy by Colt Steele - assignments
 * **CHAPTER 6** - [Intermediate CSS](https://github.com/st33ze/webDevBootcamp/tree/master/chapter_6)
 * **CHAPTER 7** - [Bootstrap](https://github.com/st33ze/webDevBootcamp/tree/master/chapter_7)
 * **CHAPTER 9** - [Bootstrap 4](https://github.com/st33ze/webDevBootcamp/tree/master/chapter_9)
+* **CHAPTER 10** - [Introduction to JavaScript](https://github.com/st33ze/webDevBootcamp/tree/master/chapter_10)
+* **CHAPTER 11** - [JavaScript Basics: Control Flow](https://github.com/st33ze/webDevBootcamp/tree/master/chapter_11)
